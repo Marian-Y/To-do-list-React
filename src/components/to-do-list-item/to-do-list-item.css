@@ -1,0 +1,40 @@
+.material-symbols-outlined {
+  font-weight: normal;
+  background: none;
+  border: none;
+  margin-top: 0px;
+  /* font-weight: 800; */
+  float: right;
+  /* background:rgba(255, 0, 0, 0); */
+  /* font-variation-settings:  
+      'FILL' 0,
+      'wght' 400,
+      'GRAD' 0,
+      'opsz' 48; */
+}
+
+.btn-trash {
+  
+  border: none;
+  background: none;
+  float: right;
+  margin: 0px 0px 0px 0px;
+  color: #e5383b;
+}
+
+.fa-star {
+  /* width: 35px;
+  height: 35px;
+  text-align: center;
+  line-height: 35px;
+  font-size: 16px; */
+  color: #FFD700;
+  transition: 0.3s all;
+  transform: translateX(360px);
+  opacity: 0;
+}
+
+.listli.like .fa-star {
+  opacity: 1;
+  transform: translateX(0px);
+}

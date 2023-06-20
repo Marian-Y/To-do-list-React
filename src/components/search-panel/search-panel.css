@@ -1,0 +1,25 @@
+.search-panel {
+    margin-top: 30px;
+    padding: 25px;
+    /* background-color: #2b752a; */
+    border-radius: 4px;
+    box-shadow: 15px 15px 30px rgba(55, 55, 55, 0.533);
+    color: #242424;
+}
+/* .form-control{
+    display: block;
+    width: 50%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+} */
